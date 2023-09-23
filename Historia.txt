@@ -1,1 +1,2 @@
 Este es el primer archivo txt version 1
+segunda linea version 2
